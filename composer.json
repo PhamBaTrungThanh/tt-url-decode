@@ -1,0 +1,15 @@
+{
+    "name": "PhamBaTrungThanh/tt-url-decode",
+    "description": "Ha",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Trung Thành",
+            "email": "phambatrungthanh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3@dev"
+    }
+}
